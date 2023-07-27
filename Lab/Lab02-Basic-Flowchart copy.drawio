@@ -177,7 +177,7 @@
                     <mxGeometry x="255" y="40" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="mvioNwK95yMqdUQ73LqQ-69" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
-                    <mxGeometry x="255" y="1240" width="130" height="30" as="geometry"/>
+                    <mxGeometry x="255" y="1260" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" style="edgeStyle=none;html=1;fontSize=8;" parent="mvioNwK95yMqdUQ73LqQ-36" source="8" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -431,7 +431,7 @@
                 <mxCell id="86" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="83" target="85" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="83" value="นำสินค้าให้ลูกค้าและเงินทอน" style="whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
+                <mxCell id="83" value="นำสินค้าให้ลูกค้าและงินทอน" style="whiteSpace=wrap;html=1;" parent="mvioNwK95yMqdUQ73LqQ-36" vertex="1">
                     <mxGeometry x="240" y="1090" width="160" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="88" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mvioNwK95yMqdUQ73LqQ-36" source="85" target="mvioNwK95yMqdUQ73LqQ-69" edge="1">
